@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang='pt-BR'>
+
+<head>
+<link rel="stylesheet" href="gravettoww2.css" >
+<meta charset="UTF-8">
+<title>Login</title>
+</head>
+
+
+
+
+<body class="fundoform" src="imagensww2/formfundo.jpeg">
+
+<main>
+
+
+<form action="/login.php" method="post">
+
+<a href="index.html"><img class="homeform" src="https://cdn-icons-png.flaticon.com/512/2/2144.png" title="Home Page" alt="home page "></a>
+
+<p>
+	
+	<label for="nomeusu">Nome de usuario:</label>
+	<input class="ç" type="text" name="nomeusu" id="nomeusu" required placeholder="fulano22"> 
+</p>
+<p>
+	<label for="email">E-mail:</label> 
+	<input class="ç" type="text" name="email" id="email" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required placeholder="fulano@gmail.com" >
+</p>
+
+<p>
+	<label for="senha">Senha:</label>
+	<input class="ç" type="password" name="senha" id="senha" required placeholder="*********">
+</p>
+<p>
+	<label for="telefone">Número de telefone:</label>
+	<input class="ç" type="text" name="telefone" id="telefone" placeholder="123456789"required pattern="[0-9]+$">
+</p>
+
+<p>
+	<input class="ç" id="contrato" name="contrato" type="checkbox" value="sim" required>
+	<label for="contrato">Aceito fazer a incrição.</label>
+</p>
+	
+	<input  id="enviar" type="submit">
+	
+</form>
+
+</main>
+</body>
+</html>

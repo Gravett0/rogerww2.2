@@ -1,0 +1,439 @@
+
+.ppp{
+	background-image: url("imagensww2/fundoo.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.jjj{
+	
+	background-image: url("imagensww2/fundoo.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+	
+ img{
+width:350px;}
+
+.banner{
+	border:5px solid black;
+	width:99.9%;
+	margin:0px;
+}
+
+	
+
+.login{	
+	position:absolute;
+	width:5.5%;
+	left:1%;
+	top:2.3%;
+	margin:30px;
+}
+.login:hover{
+	background-color:	#7FFF00;
+	border-radius:52px;
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	-webkit-filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 90%)); 
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 90%));
+	
+}
+
+
+
+
+body {
+	font-family: Georgia;
+	line-height: 3.0;
+	background-color:	#808080;
+}
+
+button{
+	border-radius:5px;
+	padding:13px;	
+	width: 31.6%;
+	margin-left:1.2%;
+	}
+button:hover{
+	border: 5px double black;
+	transform: scale(1.1,1.1);
+	transition: all 0.3s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+/*-----------------------------------------------------------------------------^^sla^^-----------------------------------------------------------------------------------------------------------------*/
+
+
+.caixinha{
+	border-radius:15px;
+	background-color:rgba(105,105,105,0.6);
+	float:left;
+	width:24%;
+	min-height:350px;
+	border: 5px double black;
+	margin:40px;
+}
+
+.caixinha:hover{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1.1)
+}
+	
+	
+
+/*-----------------------------------------------------------------------------^^caixinha inicual^^----------------------------------------------------------------------------------------------------*/
+
+
+.lado{
+	border-radius:15px;
+	background-color: rgba(105,105,105,0.6);
+	padding:20px;
+	margin:80px 30px 0px 0px;
+	float:right;
+	border:5px double black;
+	width:650px;
+	min-height:500px;
+	
+}
+
+.eu{
+	border-radius:20px;
+	float:right;
+	width:200px;
+	margin:20px 4px 0px 40px;
+	border:8px  outset black;
+	padding:0px;
+}
+.eu:hover {
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.tt{
+	border-radius:15px;
+	width:123px;
+	margin:20px 10px 160px 15px;
+	float:rigth;
+	border:8px  outset black;
+	padding:5px;
+}
+.tt:hover {
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.imglado{
+	border-radius:15px;
+	border:8px  outset black;
+	width:100px;
+	margin:20px 10px 160px 10px;
+	float:rigth;
+	padding:5px;
+}
+.imglado:hover {
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+
+
+/*-----------------------------------------------------------------------------^^aside^^---------------------------------------------------------------------------------------------------------------*/
+
+
+.clear{
+	clear:both;
+}
+
+
+.pe{ 
+color:white;
+	margin-top:100px;
+	margin-left:36%;
+	
+ }
+  
+  
+/*-----------------------------------------------------------------------------^^footer e fim da pg inicial^^----------------------------------------------------------------------------------------*/
+
+
+/*
+.maus{ 
+	float:left;
+	width:450px;
+	height:350px;
+	border: 1px solid white;
+	margin:20px;
+}
+
+.tv8{
+	float:left;
+	width:450px;
+	height:350px;
+	border: 1px solid white;
+		margin:20px;
+	}
+.zero{
+	clear:left;
+	width:450px;
+	height:350px;
+	border: 1px solid white;
+		margin:20px;
+}
+*/
+
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.homegeral{
+	width:90px;
+	position:absolute;
+	top:2px;
+	margin:8px;
+}
+.homegeral:hover{
+	
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.homegerall{
+	width:81px;
+	position:absolute;
+	top:2px;
+	margin:8px;
+}
+.homegerall:hover{
+	
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.logingerall{
+	position:absolute;
+	width:73px;
+	left:10px;
+	top:91px;
+	margin:8px;
+}
+.logingerall:hover{
+	background-color:	#7FFF00;
+	border-radius:52px;
+	
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	-webkit-filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 90%)); 
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 90%));
+	
+	}	
+	
+
+
+.logingeral{
+	position:absolute;
+	width:80px;
+	left:10px;
+	top:100px;
+	margin:8px;
+}
+.logingeral:hover{
+	background-color:	#7FFF00;
+	border-radius:52px;
+	
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+	-webkit-filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 90%)); 
+    filter: drop-shadow(0px 0px 5px rgba(0 0 0 / 90%));
+	}
+
+
+/*-----------------------------------------------------------------------------^^coisas do cabeçario^^-------------------------------------------------------------------------------------------------*/
+
+
+.bfesp{
+	border-radius:15px;
+	background-color:rgba(105,105,105,0.6);
+	float:left;
+	width:470px;
+	min-height:350px;
+	border: 5px double black;
+	margin:40px;
+}
+.bfesp:hover{
+	transform: scale(1.05,1.05);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);}
+	
+.fotobf{
+	
+	width:380px;
+	height:175px;
+}
+	
+	
+/*-----------------------------------------------------------------------------^^foto do bf+-^^--------------------------------------------------------------------------------------------------------*/
+	
+	
+.titulosav{
+	border-bottom:2px solid black;
+	width:200px;
+	padding:0px;
+	position:relative;
+	left:44%;
+}
+
+.titulostanke{
+	border-bottom:2px solid black;
+	width:230px;
+	padding:2px;
+	position:relative;
+	left:43.5%;
+}
+
+.tituloscurio{
+	border-bottom:2px solid black;
+	width:310px;
+	padding:2px;
+	position:relative;
+	left:42%;
+}
+
+
+/*-----------------------------------------------------------------------------^^titulos^^-------------------------------------------------------------------------------------------------------------*/
+
+	
+.caixinhacu{
+	border-radius:15px;
+	background-color:rgba(105,105,105,0.6);
+	float:left;
+	width:450px;
+	min-height:350px;
+	border: 6px double black;
+	margin:80px;
+}
+.caixinhacu:hover {
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+/*-----------------------------------------------------------------------------^^curiosidades^^--------------------------------------------------------------------------------------------------------*/
+/*
+.tanques{
+	float:left;
+	width:450px;
+	min-height:200px;
+	border: 5px double black;	
+	margin: 40px 250px 80px 230px;
+}
+*/
+/*-----------------------------------------------------------------------------^^tanques^^-------------------------------------------------------------------------------------------------------------*/
+
+
+form{
+	background-color: rgba(105,105,105,0.8);
+	margin:100px;
+	position:relative;
+	left:33%;
+	border:5px solid black;
+	width:18%;
+	padding:40px;
+	
+}
+
+
+#enviar{
+	position:relative;
+	left:150px;
+}
+
+.homeform{
+	position:relative;
+	left:20%;
+	width:200px;
+}
+
+.homeform:hover{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+
+.fundoform{
+	background-image: url("imagensww2/a.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.ç:hover{
+	border: solid 	#00FA9A;
+	padding:3px;
+	transform: scale(1.05,1.05);
+	
+	
+}
+
+/*-----------------------------------------------------------------------------^^form^^----------------------------------------------------------------------------------------------------------------*/
+#container {
+	background-image: url("imagensww2/brocolis.png");
+	background-position: center;
+	background-repeat: repeat;
+	background-size: contein;
+	margin: 0 auto;
+	width: 80%;
+	
+}
+
+.imgs{
+	border:2px solid black;
+	margin:70px;
+	width:500px;
+	margin-left:34%;
+}
+
+.video{
+	width:600px;
+	padding:6px;
+	border:4px double black;
+	margin:80px;
+	margin-left:31%;
+	margin-top:80px;
+ }
+table{
+	margin-top:80px;
+}
+
+.homegeralm{
+	border-bottom:3px solid white;
+	width:250px;
+}	
+
+.homegeralm:hover{
+	
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);}
+		
+
+a{
+	color:	white;
+}
+	
+.amo{
+	margin-left:520px;
+}
+
+
+.testem{
+
+	margin-bottom:70px;
+	margin-left:500px;
+	width:600px;
+	
+}
+
